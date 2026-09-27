@@ -1,0 +1,6 @@
+url: https://github.com/mimajiushi/dsh-plugins/tree/main/plugins/dsh-subagent-toggle
+name: mimajiushi/dsh-plugins#dsh-subagent-toggle
+category: security
+description:
+  en: 'Adds a settings switch that denies every tool call able to create or wake a subagent and tells the model to use Agent Teams instead.'
+  zh: '一个设置开关：关闭后拦截所有能创建或唤醒子 Agent 的工具调用，并引导模型改用 Agent Teams。'

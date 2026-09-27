@@ -1,0 +1,6 @@
+url: https://github.com/mimajiushi/dsh-plugins/tree/main/plugins/dsh-web-fetch-fakeip-allow
+name: mimajiushi/dsh-plugins#dsh-web-fetch-fakeip-allow
+category: tools
+description:
+  en: 'Lets web_fetch accept the placeholder addresses a local TUN and fake-ip proxy returns for ordinary public domains, while every other non-public address stays blocked.'
+  zh: '让 web_fetch 接受本地 TUN + fake-ip 代理（Clash/mihomo、sing-box、Surge）为普通公网域名给出的占位地址，其余非公网地址照旧被拒。'
