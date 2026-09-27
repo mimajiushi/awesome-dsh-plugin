@@ -1,0 +1,6 @@
+url: https://github.com/mimajiushi/dsh-plugins/tree/main/plugins/dsh-plan-card-sidebar
+name: mimajiushi/dsh-plugins#dsh-plan-card-sidebar
+category: ui
+description:
+  en: 'Gives the plan-review card a second home in the right sidebar, with a per-card switch that moves the same card and its decision buttons between the sidebar and the main conversation.'
+  zh: '让「计划待审」卡片可以搬进右侧栏、三个操作按钮跟着走，并能在侧边栏与主对话之间来回切换。'
