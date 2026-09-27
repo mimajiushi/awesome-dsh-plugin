@@ -1,0 +1,6 @@
+url: https://github.com/mimajiushi/dsh-plugins/tree/main/plugins/dsh-agent-teams-approval
+name: mimajiushi/dsh-plugins#dsh-agent-teams-approval
+category: workflow
+description:
+  en: 'Adds a Settings switch that lets AgentTeams create and start a team immediately, without the Web plan-approval click.'
+  zh: '给 AgentTeams 加一个「免审批执行」开关：开启后建队立即执行，不再需要在计划卡片上点「确认并启动团队」。'

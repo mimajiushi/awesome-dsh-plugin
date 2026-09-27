@@ -1,0 +1,6 @@
+url: https://github.com/mimajiushi/dsh-plugins/tree/main/plugins/dsh-agent-teams-limits
+name: mimajiushi/dsh-plugins#dsh-agent-teams-limits
+category: workflow
+description:
+  en: 'Adds a settings card for the AgentTeams roster cap and a per-team concurrency cap; the roster cap works by config injection alone, while the concurrency cap needs the patch the repository bundles for @nanmicoder/dsh-agent-teams 0.1.20.'
+  zh: '给 AgentTeams 加一张设置卡片：成员人数上限随即生效；同一团队的并发上限需要仓库内附带的补丁（针对 0.1.20）。'

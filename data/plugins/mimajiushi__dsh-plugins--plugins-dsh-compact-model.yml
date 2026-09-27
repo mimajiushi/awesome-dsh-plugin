@@ -1,0 +1,6 @@
+url: https://github.com/mimajiushi/dsh-plugins/tree/main/plugins/dsh-compact-model
+name: mimajiushi/dsh-plugins#dsh-compact-model
+category: model
+description:
+  en: 'Lets /compact run on a provider and model chosen in Settings instead of the session chat model, leaving the conversation itself untouched.'
+  zh: '让 /compact 用你在设置里选的模型，而不是跟随会话的聊天模型；对话本身不受影响。'
